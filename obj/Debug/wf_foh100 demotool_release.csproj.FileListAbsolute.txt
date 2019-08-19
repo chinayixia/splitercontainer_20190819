@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\wf_foh100 demotool_release\bin\Debug\wf_foh100 demotool_release.exe
+C:\Users\Administrator\source\repos\wf_foh100 demotool_release\bin\Debug\wf_foh100 demotool_release.pdb
+C:\Users\Administrator\source\repos\wf_foh100 demotool_release\obj\Debug\wf_foh100_demotool_release.Form1.resources
+C:\Users\Administrator\source\repos\wf_foh100 demotool_release\obj\Debug\wf_foh100_demotool_release.Properties.Resources.resources
+C:\Users\Administrator\source\repos\wf_foh100 demotool_release\obj\Debug\wf_foh100 demotool_release.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\wf_foh100 demotool_release\obj\Debug\wf_foh100 demotool_release.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\wf_foh100 demotool_release\obj\Debug\wf_foh100 demotool_release.exe
+C:\Users\Administrator\source\repos\wf_foh100 demotool_release\obj\Debug\wf_foh100 demotool_release.pdb
+C:\Users\Administrator\source\repos\wf_foh100 demotool_release\obj\Debug\wf_foh100 demotool_release.csprojAssemblyReference.cache
